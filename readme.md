@@ -16,9 +16,9 @@ const wisnia = {
     passion: "Creating amazing web experiences",
     location: "Poland",
     languages: ["JavaScript", "Python", "HTML", "CSS"],
-    frameworks: ["React", "Node.js", "Express", "Vue.js"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    tools: ["Git", "Docker", "AWS", "VS Code"],
+    frameworks: ["React", "Node.js"],
+    databases: ["MySQL"],
+    tools: ["Git", "Docker", "VS Code"],
     interests: ["Web Development", "AI/ML", "Cloud Computing", "Open Source"]
 };
 ```
